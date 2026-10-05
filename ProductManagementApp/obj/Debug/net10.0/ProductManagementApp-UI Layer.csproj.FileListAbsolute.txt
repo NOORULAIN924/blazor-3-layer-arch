@@ -1,0 +1,8 @@
+C:\Users\230924\source\repos\ProductManagementApp\ProductManagementApp\obj\Debug\net10.0\EmbeddedAttribute.cs
+C:\Users\230924\source\repos\ProductManagementApp\ProductManagementApp\obj\Debug\net10.0\ValidatableTypeAttribute.cs
+C:\Users\230924\source\repos\ProductManagementApp\ProductManagementApp\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\230924\source\repos\ProductManagementApp\ProductManagementApp\obj\Debug\net10.0\ProductManagementApp-UI Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\230924\source\repos\ProductManagementApp\ProductManagementApp\obj\Debug\net10.0\ProductManagementApp-UI Layer.AssemblyInfoInputs.cache
+C:\Users\230924\source\repos\ProductManagementApp\ProductManagementApp\obj\Debug\net10.0\ProductManagementApp-UI Layer.AssemblyInfo.cs
+C:\Users\230924\source\repos\ProductManagementApp\ProductManagementApp\obj\Debug\net10.0\ProductManagementApp-UI Layer.csproj.CoreCompileInputs.cache
+C:\Users\230924\source\repos\ProductManagementApp\ProductManagementApp\obj\Debug\net10.0\ProductManagementApp-UI Layer.MvcApplicationPartsAssemblyInfo.cache

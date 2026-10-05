@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ProductManagementApp/ProductManagementApp-UI Layer.csproj" />
+  <Project Path="ProductManagementSystem2/ProductManagementSystem2-BusinessLayer.csproj" />
+  <Project Path="ProductManagementSystem3/ProductManagementSystem3-Data Access Layer.csproj" />
+</Solution>

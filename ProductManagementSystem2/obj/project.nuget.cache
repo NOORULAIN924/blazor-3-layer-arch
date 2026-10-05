@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8iF+FjbmfGY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\230924\\source\\repos\\ProductManagementApp\\ProductManagementSystem2\\ProductManagementSystem2-BusinessLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\230924\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.9\\microsoft.aspnetcore.app.internal.assets.10.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
